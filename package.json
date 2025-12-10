@@ -88,7 +88,7 @@
   "optionalDependencies": {
     "@types/mocha": "^10.0.7",
     "@types/mock-fs": "^4.13.4",
-    "@types/node": "^18.19.50",
+    "@types/node": "^18.19.130",
     "@types/node-fetch": "^2.6.11",
     "@types/rewire": "^2.5.30",
     "@types/semver": "^7.5.8",
